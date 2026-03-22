@@ -1,0 +1,11 @@
+{
+    "id": "NightOfTheWizard",
+    "pck_name": "NightOfTheWizard",
+    "name": "Night of the Wizard",
+    "author": "unlucky0314",
+    "description": "Slay the Spire 2 mod",
+    "version": "1.0.0",
+    "has_pck": true,
+    "has_dll": true,
+    "affects_gameplay": true
+}
