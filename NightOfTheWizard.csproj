@@ -21,7 +21,6 @@
       <HintPath>$(Sts2DataDir)\0Harmony.dll</HintPath>
       <Private>false</Private>
     </Reference>
-    <PackageReference Include="Alchyr.Sts2.BaseLib" Version="*" />
   </ItemGroup>
 
   <ItemGroup>
